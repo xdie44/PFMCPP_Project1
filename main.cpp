@@ -146,7 +146,7 @@ dog.bite();
 
  send me a DM to review your pull request when the project is ready for review.
 
- Wait for my code review.
+ //Wait for my code review.
  */
 
 #include <iostream>
