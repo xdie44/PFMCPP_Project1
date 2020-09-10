@@ -52,13 +52,13 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun: water
-//  action 1: the water flows
-water.flow();
-//  action 2: the water wets things
-water.wet();
-//  action 3: the water quenches thirst 
-water.quenche();
+//  Noun: Red pen
+//  action 1: the red pen write fast
+redPen.writeFast();
+//  action 2: the red pen write slow
+redPen.writeSlow();
+//  action 3: the red pen change color 
+redPen.changeColor();
 //  2)
 //  Noun: air
 //  action 1: the air creates pressure 
